@@ -6,8 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    
     a = 5;
-
+    b = a + 1;
 
 
 }
